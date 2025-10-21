@@ -61,13 +61,14 @@ Tasks will be saved in `tasks.json` for persistence.
 
 ## Future Enhancements
 
-◼ Display a list of all tasks before updating/deleting
-◼ Filter tasks by status (todo, in-progress, done)
-◼ Sort tasks by creation or update date
-◼ Add color-coded status in CLI
-◼ Support for recurring tasks or reminders
+- Display a list of all tasks before updating/deleting
+- Filter tasks by status (todo, in-progress, done)
+- Sort tasks by creation or update date
+- Add color-coded status in CLI
+- Support for recurring tasks or reminders
 
 ## Contributing
 
 Feel free to submit issues or pull requests.
+
 All suggestions for new features or improvements are welcome.
